@@ -1,0 +1,15 @@
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect\AuxiliarKinect\bin\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect\AuxiliarKinect\obj\Debug\AuxiliarKinect.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect\AuxiliarKinect\obj\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect\AuxiliarKinect\obj\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Com Microsoft.Kinect.Toolkit\AuxiliarKinect\obj\Debug\AuxiliarKinect.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Com Microsoft.Kinect.Toolkit\AuxiliarKinect\obj\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Com Microsoft.Kinect.Toolkit\AuxiliarKinect\obj\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Com Microsoft.Kinect.Toolkit\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Com Microsoft.Kinect.Toolkit\AuxiliarKinect\bin\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Versão 2\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Versão 2\AuxiliarKinect\bin\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Versão 2\AuxiliarKinect\obj\Debug\AuxiliarKinect.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Versão 2\AuxiliarKinect\obj\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Versão 2\AuxiliarKinect\obj\Debug\AuxiliarKinect.pdb
