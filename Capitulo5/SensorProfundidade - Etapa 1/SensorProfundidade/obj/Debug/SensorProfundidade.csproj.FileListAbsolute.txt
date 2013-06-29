@@ -15,3 +15,6 @@ D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade 
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\SensorProfundidade.g.resources
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\SensorProfundidade.Properties.Resources.resources
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\SensorProfundidade.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 1\SensorProfundidade\bin\Debug\SensorProfundidade.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\SensorProfundidade.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\SensorProfundidade.pdb

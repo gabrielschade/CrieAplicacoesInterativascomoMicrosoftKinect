@@ -51,7 +51,11 @@ namespace SensorProfundidade
 
         private void kinect_AllFramesReady(object sender, AllFramesReadyEventArgs e)
         {
-            imagemCamera.Source = ReconhecerDistancia(e.OpenDepthImageFrame(), ObterImagemSensorRGB(e.OpenColorImageFrame()),2000);
+            byte[] imagem = ObterImagemSensorRGB(e.OpenColorImageFrame());
+            if (chkEscalaCinza.IsChecked.HasValue && chkEscalaCinza.IsChecked.Value)
+                ReconhecerDistancia(e.OpenDepthImageFrame(), imagem, 2000);
+            if (imagem != null)
+                imagemCamera.Source = BitmapSource.Create(kinect.ColorStream.FrameWidth, kinect.ColorStream.FrameHeight, 96, 96, PixelFormats.Bgr32, null, imagem, kinect.ColorStream.FrameBytesPerPixel * kinect.ColorStream.FrameWidth);
         }
 
         private byte[] ObterImagemSensorRGB(ColorImageFrame quadroAtual)
@@ -67,9 +71,9 @@ namespace SensorProfundidade
             }
         }
 
-        private BitmapSource ReconhecerDistancia(DepthImageFrame quadroAtual, byte[] bytesImagem, int distanciaMaxima)
+        private void ReconhecerDistancia(DepthImageFrame quadroAtual, byte[] bytesImagem, int distanciaMaxima)
         {
-            if (quadroAtual == null || bytesImagem == null) return null;
+            if (quadroAtual == null || bytesImagem == null) return;
 
             using (DepthImageFrame quadro = quadroAtual)
             {
@@ -88,7 +92,6 @@ namespace SensorProfundidade
                         bytesImagem[indiceImageCores + 2] = maiorValorCor;
                     }
                 }
-                return BitmapSource.Create(quadro.Width, quadro.Height, 96, 96, PixelFormats.Bgr32, null, bytesImagem, quadro.Width * 4);
             }
         }
 
