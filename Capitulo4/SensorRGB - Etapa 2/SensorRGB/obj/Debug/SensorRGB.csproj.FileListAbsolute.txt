@@ -28,3 +28,6 @@ D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\obj\Debug\SensorRGB.g.resources
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\obj\Debug\SensorRGB.Properties.Resources.resources
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\obj\Debug\SensorRGB.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Etapa 2\SensorRGB\bin\Debug\SensorRGB.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Etapa 2\SensorRGB\obj\Debug\SensorRGB.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Etapa 2\SensorRGB\obj\Debug\SensorRGB.pdb

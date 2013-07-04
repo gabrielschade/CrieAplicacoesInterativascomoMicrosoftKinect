@@ -51,11 +51,11 @@ namespace SensorRGB
             imagemCamera.Source = ObterImagemSensorRGB(e.OpenColorImageFrame());
         }
 
-        private BitmapSource ObterImagemSensorRGB(ColorImageFrame quadroAtual)
+        private BitmapSource ObterImagemSensorRGB(ColorImageFrame quadro)
         {
-            if (quadroAtual == null) return null;
+            if (quadro == null) return null;
 
-            using (ColorImageFrame quadro = quadroAtual)
+            using (quadro)
             {
                 byte[] bytesImagem = new byte[quadro.PixelDataLength];
                 quadro.CopyPixelDataTo(bytesImagem);

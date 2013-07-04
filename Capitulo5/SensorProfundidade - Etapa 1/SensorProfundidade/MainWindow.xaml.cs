@@ -62,11 +62,11 @@ namespace SensorProfundidade
             imagemCamera.Source = ObterImagemSensorRGB(e.OpenColorImageFrame());
         }
 
-        private BitmapSource ObterImagemSensorRGB(ColorImageFrame quadroAtual)
+        private BitmapSource ObterImagemSensorRGB(ColorImageFrame quadro)
         {
-            if (quadroAtual == null) return null;
+            if (quadro == null) return null;
 
-            using (ColorImageFrame quadro = quadroAtual)
+            using (quadro)
             {
                 byte[] bytesImagem = new byte[quadro.PixelDataLength];
                 quadro.CopyPixelDataTo(bytesImagem);
@@ -85,11 +85,11 @@ namespace SensorProfundidade
             }
         }
 
-        private BitmapSource ReconhecerHumanos(DepthImageFrame quadroAtual)
+        private BitmapSource ReconhecerHumanos(DepthImageFrame quadro)
         {
-            if (quadroAtual == null) return null;
+            if (quadro == null) return null;
 
-            using (DepthImageFrame quadro = quadroAtual)
+            using (quadro)
             {
                 DepthImagePixel[] imagemProfundidade = new DepthImagePixel[quadro.PixelDataLength];
                 quadro.CopyDepthImagePixelDataTo(imagemProfundidade);

@@ -58,11 +58,11 @@ namespace SensorProfundidade
                 imagemCamera.Source = BitmapSource.Create(kinect.ColorStream.FrameWidth, kinect.ColorStream.FrameHeight, 96, 96, PixelFormats.Bgr32, null, imagem, kinect.ColorStream.FrameBytesPerPixel * kinect.ColorStream.FrameWidth);
         }
 
-        private byte[] ObterImagemSensorRGB(ColorImageFrame quadroAtual)
+        private byte[] ObterImagemSensorRGB(ColorImageFrame quadro)
         {
-            if (quadroAtual == null) return null;
+            if (quadro == null) return null;
 
-            using (ColorImageFrame quadro = quadroAtual)
+            using (quadro)
             {
                 byte[] bytesImagem = new byte[quadro.PixelDataLength];
                 quadro.CopyPixelDataTo(bytesImagem);
@@ -71,11 +71,11 @@ namespace SensorProfundidade
             }
         }
 
-        private void ReconhecerDistancia(DepthImageFrame quadroAtual, byte[] bytesImagem, int distanciaMaxima)
+        private void ReconhecerDistancia(DepthImageFrame quadro, byte[] bytesImagem, int distanciaMaxima)
         {
-            if (quadroAtual == null || bytesImagem == null) return;
+            if (quadro == null || bytesImagem == null) return;
 
-            using (DepthImageFrame quadro = quadroAtual)
+            using (quadro)
             {
                 DepthImagePixel[] imagemProfundidade = new DepthImagePixel[quadro.PixelDataLength];
                 quadro.CopyDepthImagePixelDataTo(imagemProfundidade);

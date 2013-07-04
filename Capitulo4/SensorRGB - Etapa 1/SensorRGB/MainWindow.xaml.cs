@@ -41,9 +41,9 @@ namespace SensorRGB
             imagemCamera.Source = ObterImagemSensorRGB(kinect.ColorStream.OpenNextFrame(0));
         }
 
-        private BitmapSource ObterImagemSensorRGB(ColorImageFrame quadroAtual)
+        private BitmapSource ObterImagemSensorRGB(ColorImageFrame quadro)
         {
-            using (ColorImageFrame quadro = quadroAtual)
+            using (quadro)
             {
                 byte[] bytesImagem = new byte[quadro.PixelDataLength];
                 quadro.CopyPixelDataTo(bytesImagem);
