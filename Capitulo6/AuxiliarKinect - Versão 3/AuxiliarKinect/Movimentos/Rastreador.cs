@@ -7,26 +7,21 @@ using System.Threading.Tasks;
 
 namespace AuxiliarKinect.Movimentos
 {
-    public class Rastreador<T> where T : Movimento
+    public class Rastreador<T> : IRastreador where T : Movimento, new()
     {
         private T movimento;
         private EstadoRastreamento estadoAnterior;
         public event EventHandler MovimentoIdentificado;
-        public event EventHandler MovimentoPerdido;
 
         public Rastreador()
         {
-            movimento = Activator.CreateInstance<T>();
             estadoAnterior = EstadoRastreamento.NaoIdentificado;
+            movimento = Activator.CreateInstance<T>();
         }
 
         public void Rastrear(Skeleton esqueletoUsuario)
         {
             EstadoRastreamento estadoAtual = movimento.Rastrear(esqueletoUsuario);
-
-            if (estadoAtual == EstadoRastreamento.NaoIdentificado &&
-                estadoAnterior == EstadoRastreamento.Identificado)
-                ChamarEvento(MovimentoPerdido);
 
             if (estadoAtual == EstadoRastreamento.Identificado &&
                 estadoAnterior != EstadoRastreamento.Identificado)

@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="FuncoesBasicas\InicializadorKinect.cs" />
     <Compile Include="FuncoesBasicas\Util.cs" />
+    <Compile Include="Movimentos\IRastreador.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Movimentos\Enum.cs" />
     <Compile Include="Movimentos\Movimento.cs" />

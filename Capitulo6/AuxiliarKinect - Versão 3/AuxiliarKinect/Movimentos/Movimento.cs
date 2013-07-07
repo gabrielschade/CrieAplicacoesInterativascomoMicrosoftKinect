@@ -11,7 +11,6 @@ namespace AuxiliarKinect.Movimentos
     {
         protected int ContadorQuadros { get; set; }
         public string Nome { get; set; }
-        
         public abstract EstadoRastreamento Rastrear(Skeleton esqueletoUsuario);
         protected abstract bool PosicaoValida(Skeleton esqueletoUsuario);
     }

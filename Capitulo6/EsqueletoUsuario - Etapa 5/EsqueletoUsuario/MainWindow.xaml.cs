@@ -27,7 +27,7 @@ namespace EsqueletoUsuario
     public partial class MainWindow : Window
     {
         KinectSensor kinect;
-        Rastreador<PoseT> rastreadorPoseT;
+        List<IRastreador> rastreadores;
 
         public MainWindow()
         {
@@ -56,8 +56,12 @@ namespace EsqueletoUsuario
 
         private void InicializarRastreadores()
         {
-            rastreadorPoseT = new Rastreador<PoseT>();
+            rastreadores = new List<IRastreador>();
+            
+            Rastreador<PoseT> rastreadorPoseT = new Rastreador<PoseT>();
             rastreadorPoseT.MovimentoIdentificado += PoseTIdentificada;
+
+            rastreadores.Add(rastreadorPoseT);
         }
 
         private void PoseTIdentificada(object sender, EventArgs e)
@@ -79,17 +83,20 @@ namespace EsqueletoUsuario
 
             canvasKinect.Children.Clear();
 
-            DesenharEsqueletoUsuario(e.OpenSkeletonFrame());
+            FuncoesEsqueletoUsuario(e.OpenSkeletonFrame());
 
         }
 
-        private void DesenharEsqueletoUsuario(SkeletonFrame quadro)
+        private void FuncoesEsqueletoUsuario(SkeletonFrame quadro)
         {
             if (quadro == null) return;
 
             using (quadro)
             {
-                rastreadorPoseT.Rastrear(quadro.ObterEsqueletoUsuario());
+                Skeleton esqueletoUsuario = quadro.ObterEsqueletoUsuario();
+                foreach (IRastreador rastreador in rastreadores)
+                    rastreador.Rastrear(esqueletoUsuario);
+                
                 if (chkEsqueleto.IsChecked.HasValue && chkEsqueleto.IsChecked.Value)
                     quadro.DesenharEsqueletoUsuario(kinect, canvasKinect);
             }
