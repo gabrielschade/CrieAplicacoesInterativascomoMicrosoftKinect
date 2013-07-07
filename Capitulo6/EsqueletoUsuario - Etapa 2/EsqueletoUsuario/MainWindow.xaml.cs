@@ -26,12 +26,6 @@ namespace EsqueletoUsuario
     {
         KinectSensor kinect;
 
-        public MainWindow(int i)
-        {
-            InitializeComponent();
-            InicializarSeletor();
-        }
-
         public MainWindow()
         {
             InitializeComponent();

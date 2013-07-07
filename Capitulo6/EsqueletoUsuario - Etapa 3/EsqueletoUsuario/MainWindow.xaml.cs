@@ -26,12 +26,6 @@ namespace EsqueletoUsuario
     {
         KinectSensor kinect;
 
-        public MainWindow(int i)
-        {
-            InitializeComponent();
-            InicializarSeletor();
-        }
-
         public MainWindow()
         {
             InitializeComponent();
@@ -78,7 +72,9 @@ namespace EsqueletoUsuario
             if (quadro == null) return;
 
             using (quadro)
+            {
                 quadro.DesenharEsqueletoUsuario(kinect, canvasKinect);
+            }
         }
 
         private byte[] ObterImagemSensorRGB(ColorImageFrame quadro)

@@ -25,15 +25,9 @@ namespace EsqueletoUsuario.Auxiliar
                 Skeleton esqueleto = esqueletosRastreados.First();
                 EsqueletoUsuarioAuxiliar esqueletoUsuarioAuxiliar = new EsqueletoUsuarioAuxiliar(kinectSensor);
 
-                foreach (BoneOrientation osso in esqueleto.BoneOrientations)
-                {
+                foreach (Joint articulacao in esqueleto.Joints)
                     esqueletoUsuarioAuxiliar
-                     .DesenharOsso(esqueleto.Joints[osso.StartJoint],
-                                    esqueleto.Joints[osso.EndJoint],
-                                    canvasParaDesenhar);
-
-                    esqueletoUsuarioAuxiliar.DesenharArticulacao(esqueleto.Joints[osso.EndJoint], canvasParaDesenhar);
-                }
+                     .DesenharArticulacao(articulacao, canvasParaDesenhar);
             }
         }
 
