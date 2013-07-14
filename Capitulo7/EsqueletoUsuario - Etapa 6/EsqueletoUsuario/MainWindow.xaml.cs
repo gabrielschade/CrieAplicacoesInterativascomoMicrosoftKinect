@@ -71,7 +71,19 @@ namespace EsqueletoUsuario
         private void PosePauseEmProgresso(object sender, EventArgs e)
         {
             PosePause pose = sender as PosePause;
-            Console.WriteLine(pose.PercentualProgresso);
+
+            Rectangle retangulo = new Rectangle();
+            retangulo.Width = canvasKinect.ActualWidth;
+            retangulo.Height = 20;
+            retangulo.Fill = Brushes.Black;
+
+            Rectangle poseRetangulo = new Rectangle();
+            poseRetangulo.Width = canvasKinect.ActualWidth * pose.PercentualProgresso / 100;
+            poseRetangulo.Height = 20;
+            poseRetangulo.Fill = Brushes.BlueViolet;
+
+            canvasKinect.Children.Add(retangulo);
+            canvasKinect.Children.Add(poseRetangulo);
         }
 
         private void PosePauseIdentificada(object sender, EventArgs e)
