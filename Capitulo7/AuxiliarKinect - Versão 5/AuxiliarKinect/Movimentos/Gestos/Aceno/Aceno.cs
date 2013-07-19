@@ -11,11 +11,11 @@ namespace AuxiliarKinect.Movimentos.Gestos.Aceno
     {
         public Aceno()
         {
-            GestoQuadroChave etapa1 = new GestoQuadroChave(new AcenoMaoAntesCotovelo(), 0, 0);
+            GestoQuadroChave etapa1 = new GestoQuadroChave(new AcenoMaoAposCotovelo(), 0, 0);
             GestoQuadroChave etapa2 = new GestoQuadroChave(new AcenoMaoSobreCotovelo(), 1, 35);
-            GestoQuadroChave etapa3 = new GestoQuadroChave(new AcenoMaoAposCotovelo(), 1, 35);
+            GestoQuadroChave etapa3 = new GestoQuadroChave(new AcenoMaoAntesCotovelo(), 1, 35);
             GestoQuadroChave etapa4 = new GestoQuadroChave(new AcenoMaoSobreCotovelo(), 1, 35);
-            GestoQuadroChave etapa5 = new GestoQuadroChave(new AcenoMaoAntesCotovelo(), 1, 35);
+            GestoQuadroChave etapa5 = new GestoQuadroChave(new AcenoMaoAposCotovelo(), 1, 35);
 
             QuadrosChave = new LinkedList<GestoQuadroChave>();
             QuadrosChave.AddFirst(etapa1);

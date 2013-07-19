@@ -49,9 +49,9 @@
     <Compile Include="Movimentos\Gesto.cs" />
     <Compile Include="Movimentos\GestoQuadroChave.cs" />
     <Compile Include="Movimentos\Gestos\Aceno\Aceno.cs" />
-    <Compile Include="Movimentos\Gestos\Aceno\AcenoMaoAntesCotovelo.cs" />
-    <Compile Include="Movimentos\Gestos\Aceno\AcenoMaoSobreCotovelo.cs" />
     <Compile Include="Movimentos\Gestos\Aceno\AcenoMaoAposCotovelo.cs" />
+    <Compile Include="Movimentos\Gestos\Aceno\AcenoMaoSobreCotovelo.cs" />
+    <Compile Include="Movimentos\Gestos\Aceno\AcenoMaoAntesCotovelo.cs" />
     <Compile Include="Movimentos\IRastreador.cs" />
     <Compile Include="Movimentos\Poses\PosePause.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

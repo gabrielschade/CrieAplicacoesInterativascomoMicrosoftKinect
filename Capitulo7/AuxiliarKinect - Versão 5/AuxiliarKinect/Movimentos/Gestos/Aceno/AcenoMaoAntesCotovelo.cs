@@ -14,10 +14,10 @@ namespace AuxiliarKinect.Movimentos.Gestos.Aceno
             Joint maoDireita = esqueletoUsuario.Joints[JointType.HandRight];
             Joint cotoveloDireito = esqueletoUsuario.Joints[JointType.ElbowRight];
 
-            bool maoDireitaAntesCotovelo = maoDireita.Position.X > cotoveloDireito.Position.X;
-            bool maoDireitaAcimaCotovelo = maoDireita.Position.Y > cotoveloDireito.Position.Y;
+            bool maoDireitaAntesCotovelo = maoDireita.Position.X < cotoveloDireito.Position.X;
+            bool maoDireitaSobreCotovelo = maoDireita.Position.Y > cotoveloDireito.Position.Y;
 
-            return maoDireitaAcimaCotovelo && maoDireitaAntesCotovelo;
+            return maoDireitaSobreCotovelo && maoDireitaAntesCotovelo;
         }
     }
 }
