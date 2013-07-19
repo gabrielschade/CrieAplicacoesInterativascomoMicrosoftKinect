@@ -9,8 +9,9 @@ namespace AuxiliarKinect.Movimentos
     public abstract class Gesto : Movimento
     {
         protected LinkedList<GestoQuadroChave> QuadrosChave { get; set; }
-        protected LinkedListNode<GestoQuadroChave> QuadroChaveAtual {get;set;}
+        protected LinkedListNode<GestoQuadroChave> QuadroChaveAtual { get; set; }
         private int contadorEtapas;
+        private EstadoRastreamento novoEstado;
 
         public int QuantidadeEtapas { get { return QuadrosChave.Count; } }
 
@@ -24,7 +25,6 @@ namespace AuxiliarKinect.Movimentos
 
         public override EstadoRastreamento Rastrear(Microsoft.Kinect.Skeleton esqueletoUsuario)
         {
-            EstadoRastreamento novoEstado;
             if (esqueletoUsuario != null)
             {
                 if (PosicaoValida(esqueletoUsuario))
@@ -32,52 +32,51 @@ namespace AuxiliarKinect.Movimentos
                     novoEstado = EstadoRastreamento.EmExecucao;
                     if (QuadroChaveAtual.Value == QuadrosChave.Last.Value)
                         novoEstado = EstadoRastreamento.Identificado;
-                    else if (QuadroChaveAtual.Value == QuadrosChave.First.Value)
-                    {
-                        novoEstado = EstadoRastreamento.EmExecucao;
-                        ContadorQuadros += 1;
-                        QuadroChaveAtual = QuadroChaveAtual.Next;
-                        contadorEtapas++;
-                    }
                     else
                     {
-                        if (ContadorQuadros > QuadroChaveAtual.Value.QuadroLimiteInferior &&
-                            ContadorQuadros < QuadroChaveAtual.Value.QuadroLimiteSuperior)
-                        {
-                            ContadorQuadros = 0;
-                            QuadroChaveAtual = QuadroChaveAtual.Next;
-                            contadorEtapas++;
-                        }
+                        if (ContadorQuadros >= QuadroChaveAtual.Value.QuadroLimiteInferior &&
+                           ContadorQuadros <= QuadroChaveAtual.Value.QuadroLimiteSuperior)
+                            ProximoQuadroChave();
+                        else
+                            if (ContadorQuadros < QuadroChaveAtual.Value.QuadroLimiteInferior)
+                                PermanecerRastreando();
+                            else if (ContadorQuadros > QuadroChaveAtual.Value.QuadroLimiteSuperior)
+                                ReiniciarRastreamento();
                     }
                 }
                 else
-                {
-                    ContadorQuadros += 1;
-                    novoEstado = EstadoRastreamento.EmExecucao;
-
                     if (QuadroChaveAtual.Value.QuadroLimiteSuperior < ContadorQuadros)
-                    {
-                        ResetarRastreamento();
-                        novoEstado = EstadoRastreamento.NaoIdentificado;
-                    }
-                }
+                        ReiniciarRastreamento();
+                    else
+                        PermanecerRastreando();
             }
             else
-            {
-                ResetarRastreamento();
-                novoEstado = EstadoRastreamento.NaoIdentificado;
-            }
+                ReiniciarRastreamento();
 
             return novoEstado;
         }
 
-        private void ResetarRastreamento()
+        private void ProximoQuadroChave()
+        {
+            novoEstado = EstadoRastreamento.EmExecucao;
+            ContadorQuadros = 0;
+            QuadroChaveAtual = QuadroChaveAtual.Next;
+            contadorEtapas++;
+        }
+
+        private void ReiniciarRastreamento()
         {
             ContadorQuadros = 0;
             QuadroChaveAtual = QuadrosChave.First;
             contadorEtapas = 0;
+            novoEstado = EstadoRastreamento.NaoIdentificado;
         }
 
+        private void PermanecerRastreando()
+        {
+            ContadorQuadros++;
+            novoEstado = EstadoRastreamento.EmExecucao;
+        }
 
     }
 }

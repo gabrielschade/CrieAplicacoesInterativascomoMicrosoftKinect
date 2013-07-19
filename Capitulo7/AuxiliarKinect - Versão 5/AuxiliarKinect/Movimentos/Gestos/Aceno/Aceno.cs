@@ -7,26 +7,27 @@ using System.Threading.Tasks;
 
 namespace AuxiliarKinect.Movimentos.Gestos.Aceno
 {
-    public class Aceno:Gesto
+    public class Aceno : Gesto
     {
         public Aceno()
         {
-            GestoQuadroChave etapa1 = new GestoQuadroChave(new AcenoMaoAposCotovelo(), 0, 0);
-            GestoQuadroChave etapa2 = new GestoQuadroChave(new AcenoMaoSobreCotovelo(), 1, 35);
-            GestoQuadroChave etapa3 = new GestoQuadroChave(new AcenoMaoAntesCotovelo(), 1, 35);
-            GestoQuadroChave etapa4 = new GestoQuadroChave(new AcenoMaoSobreCotovelo(), 1, 35);
-            GestoQuadroChave etapa5 = new GestoQuadroChave(new AcenoMaoAposCotovelo(), 1, 35);
-
-            QuadrosChave = new LinkedList<GestoQuadroChave>();
-            QuadrosChave.AddFirst(etapa1);
-            QuadrosChave.AddLast(etapa2);
-            QuadrosChave.AddLast(etapa3);
-            QuadrosChave.AddLast(etapa4);
-            QuadrosChave.AddLast(etapa5);
+            InicializaQuadrosChave();
 
             Nome = "Aceno";
             ContadorQuadros = 0;
             QuadroChaveAtual = QuadrosChave.First;
+        }
+
+        private void InicializaQuadrosChave()
+        {
+            QuadrosChave = new LinkedList<GestoQuadroChave>();
+            QuadrosChave.AddFirst(new GestoQuadroChave(new AcenoMaoAposCotovelo(), 0, 0));
+            QuadrosChave.AddLast(new GestoQuadroChave(new AcenoMaoSobreCotovelo(), 1, 25));
+            QuadrosChave.AddLast(new GestoQuadroChave(new AcenoMaoAntesCotovelo(), 1, 25));
+            QuadrosChave.AddLast(new GestoQuadroChave(new AcenoMaoSobreCotovelo(), 1, 25));
+            QuadrosChave.AddLast(new GestoQuadroChave(new AcenoMaoAposCotovelo(), 1, 25));
+            QuadrosChave.AddLast(new GestoQuadroChave(new AcenoMaoSobreCotovelo(), 1, 25));
+            QuadrosChave.AddLast(new GestoQuadroChave(new AcenoMaoAntesCotovelo(), 1, 25));
         }
 
         protected override bool PosicaoValida(Skeleton esqueletoUsuario)

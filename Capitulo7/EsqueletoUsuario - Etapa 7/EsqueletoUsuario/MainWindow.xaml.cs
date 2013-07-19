@@ -75,6 +75,7 @@ namespace EsqueletoUsuario
             rastreadores.Add(rastreadorAceno);
         }
 
+
         private void AcenoIndentificado(object sender, EventArgs e)
         {
             Application.Current.Shutdown();
