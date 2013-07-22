@@ -1,0 +1,81 @@
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\bin\Debug\SensorRGB.exe.config
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\bin\Debug\SensorRGB.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\bin\Debug\SensorRGB.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\bin\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\bin\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\obj\Debug\SensorRGB.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\obj\Debug\MainWindow.baml
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\obj\Debug\MainWindow.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\obj\Debug\App.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\obj\Debug\SensorRGB_MarkupCompile.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\obj\Debug\SensorRGB.g.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\obj\Debug\SensorRGB.Properties.Resources.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\obj\Debug\SensorRGB.csproj.GenerateResource.Cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\obj\Debug\SensorRGB.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB\SensorRGB\obj\Debug\SensorRGB.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\bin\Debug\SensorRGB.exe.config
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\obj\Debug\SensorRGB.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\obj\Debug\SensorRGB.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\bin\Debug\SensorRGB.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\bin\Debug\SensorRGB.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\bin\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\bin\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\obj\Debug\SensorRGB.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\obj\Debug\MainWindow.baml
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\obj\Debug\MainWindow.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\obj\Debug\App.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\obj\Debug\SensorRGB_MarkupCompile.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\obj\Debug\SensorRGB.g.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\obj\Debug\SensorRGB.Properties.Resources.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 2\SensorRGB\obj\Debug\SensorRGB.csproj.GenerateResource.Cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\bin\Debug\SensorRGB.exe.config
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\obj\Debug\SensorRGB.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\obj\Debug\SensorRGB.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\bin\Debug\SensorRGB.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\bin\Debug\SensorRGB.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\bin\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\obj\Debug\SensorRGB.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\obj\Debug\MainWindow.baml
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\obj\Debug\MainWindow.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\obj\Debug\App.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\obj\Debug\SensorRGB_MarkupCompile.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\obj\Debug\SensorRGB.g.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\obj\Debug\SensorRGB.Properties.Resources.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\obj\Debug\SensorRGB.csproj.GenerateResource.Cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 3\SensorRGB\bin\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\bin\Debug\SensorRGB.exe.config
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\obj\Debug\SensorRGB.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\obj\Debug\SensorRGB.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\obj\Debug\SensorRGB.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\obj\Debug\MainWindow.baml
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\obj\Debug\MainWindow.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\obj\Debug\App.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\obj\Debug\SensorRGB_MarkupCompile.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\obj\Debug\SensorRGB.g.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\obj\Debug\SensorRGB.Properties.Resources.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\obj\Debug\SensorRGB.csproj.GenerateResource.Cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\bin\Debug\SensorRGB.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\bin\Debug\SensorRGB.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\bin\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\bin\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorRGB - Etapa 4\SensorRGB\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\bin\Debug\SensorProfundidade.exe.config
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\bin\Debug\SensorProfundidade.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\bin\Debug\SensorProfundidade.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\bin\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\bin\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\obj\Debug\SensorRGB.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\obj\Debug\MainWindow.baml
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\obj\Debug\MainWindow.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\obj\Debug\App.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\obj\Debug\SensorProfundidade_MarkupCompile.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\obj\Debug\SensorProfundidade.g.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\obj\Debug\SensorProfundidade.Properties.Resources.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\obj\Debug\SensorRGB.csproj.GenerateResource.Cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\obj\Debug\SensorProfundidade.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorRGB\obj\Debug\SensorProfundidade.pdb

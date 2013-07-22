@@ -1,0 +1,67 @@
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\bin\Debug\SensorProfundidade.exe.config
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\SensorProfundidade.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\SensorProfundidade.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\bin\Debug\SensorProfundidade.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\bin\Debug\SensorProfundidade.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\bin\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\bin\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\SensorProfundidade.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\MainWindow.baml
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\MainWindow.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\App.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\SensorProfundidade_MarkupCompile.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\SensorProfundidade.g.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\SensorProfundidade.Properties.Resources.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 1\SensorProfundidade\obj\Debug\SensorProfundidade.csproj.GenerateResource.Cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\bin\Debug\SensorProfundidade.exe.config
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\obj\Debug\SensorProfundidade.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\obj\Debug\SensorProfundidade.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\bin\Debug\SensorProfundidade.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\bin\Debug\SensorProfundidade.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\bin\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\bin\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\obj\Debug\SensorProfundidade.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\obj\Debug\MainWindow.baml
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\obj\Debug\MainWindow.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\obj\Debug\App.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\obj\Debug\SensorProfundidade_MarkupCompile.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\obj\Debug\SensorProfundidade.g.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\obj\Debug\SensorProfundidade.Properties.Resources.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 2\SensorProfundidade\obj\Debug\SensorProfundidade.csproj.GenerateResource.Cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\bin\Debug\SensorProfundidade.exe.config
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\SensorProfundidade.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\SensorProfundidade.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\bin\Debug\SensorProfundidade.exe
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\bin\Debug\SensorProfundidade.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\bin\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\bin\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\SensorProfundidade.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\MainWindow.baml
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\MainWindow.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\App.g.cs
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\SensorProfundidade_MarkupCompile.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\SensorProfundidade.g.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\SensorProfundidade.Properties.Resources.resources
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\SensorProfundidade.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\bin\Debug\SensorProfundidade.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\SensorProfundidade.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\SensorProfundidade.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\bin\Debug\SensorProfundidade.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\bin\Debug\SensorProfundidade.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\SensorProfundidade.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\SensorProfundidade_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\SensorProfundidade.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\SensorProfundidade.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo5\SensorProfundidade - Etapa 3\SensorProfundidade\obj\Debug\SensorProfundidade.csproj.GenerateResource.Cache

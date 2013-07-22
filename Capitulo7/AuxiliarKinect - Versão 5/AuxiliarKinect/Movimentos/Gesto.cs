@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Kinect;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,7 +24,7 @@ namespace AuxiliarKinect.Movimentos
             }
         }
 
-        public override EstadoRastreamento Rastrear(Microsoft.Kinect.Skeleton esqueletoUsuario)
+        public override EstadoRastreamento Rastrear(Skeleton esqueletoUsuario)
         {
             if (esqueletoUsuario != null)
             {

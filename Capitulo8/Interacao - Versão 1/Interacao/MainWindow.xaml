@@ -1,0 +1,31 @@
+﻿<Window x:Class="Interacao.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        xmlns:my="clr-namespace:Interacao.Auxiliar"
+        Title="MainWindow" Height="800" Width="1000"
+        WindowState="Maximized">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="25"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="240*"/>
+            <RowDefinition Height="180"/>
+        </Grid.RowDefinitions>
+        <Canvas Name="canvasKinect" Grid.Row="1" Grid.ColumnSpan="1"/>
+        <k:KinectRegion Name="kinectRegion" Grid.Row="2" Grid.ColumnSpan="2">
+                <StackPanel  Orientation="Horizontal" >
+                    <my:KinectToggleButton x:Name="btnEscalaCinza" Tag="false" Content="Escala Cinza" Height="130"  Foreground="White"/>
+                    <my:KinectToggleButton x:Name="btnEsqueletoUsuario" Tag="false" Content="Esqueleto do Usuário" Height="130"  FontSize="20" Foreground="White"/>
+                </StackPanel>
+        </k:KinectRegion>
+        <k:KinectSensorChooserUI Name="sensorChooserUi" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="390,0,337,0" Grid.ColumnSpan="2" />
+        <Slider Name="slider" Width="20" Orientation="Vertical" Minimum="-27" Maximum="27" SmallChange="1" Value="0" Height="{Binding ElementName=imagemCamera, Path=ActualHeight}" Thumb.DragCompleted="slider_DragCompleted" Grid.Column="2" Grid.Row="1" Margin="3,0,2,0"/>
+    </Grid>
+</Window>
+
+    
+    
