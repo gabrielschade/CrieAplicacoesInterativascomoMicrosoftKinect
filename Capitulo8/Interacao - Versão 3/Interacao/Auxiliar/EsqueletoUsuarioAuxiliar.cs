@@ -19,12 +19,16 @@ namespace Interacao.Auxiliar
             this.kinect = kinect;
         }
 
-        public Ellipse DesenharArticulacao(Joint articulacao, Canvas canvasParaDesenhar)
+        public Ellipse DesenharArticulacao(Joint articulacao, Canvas canvasParaDesenhar, int diametro = 0, bool preencher = false)
         {
-            int diametroArticulacao = articulacao.JointType == JointType.Head ? 50 : 10;
+            int diametroArticulacao = diametro;
             int larguraDesenho = 4;
             Brush corDesenho = Brushes.Red;
-            Ellipse objetoArticulacao = CriarComponenteVisualArticulacao(diametroArticulacao, larguraDesenho, corDesenho);
+
+            if( diametroArticulacao == 0)
+                diametroArticulacao = articulacao.JointType == JointType.Head ? 50 : 10;
+
+            Ellipse objetoArticulacao = CriarComponenteVisualArticulacao(diametroArticulacao, larguraDesenho, corDesenho, preencher);
 
             ColorImagePoint posicaoArticulacao = ConverterCoordenadasArticulacao(articulacao, canvasParaDesenhar.ActualWidth, canvasParaDesenhar.ActualHeight);
 
@@ -68,7 +72,7 @@ namespace Interacao.Auxiliar
                 canvasParaDesenhar.Children.Add(objetoOsso);
         }
 
-        private Ellipse CriarComponenteVisualArticulacao(int diametroArticulacao, int larguraDesenho, Brush corDesenho)
+        private Ellipse CriarComponenteVisualArticulacao(int diametroArticulacao, int larguraDesenho, Brush corDesenho, bool preencher)
         {
             Ellipse objetoArticulacao = new Ellipse();
 
@@ -76,6 +80,9 @@ namespace Interacao.Auxiliar
             objetoArticulacao.Width = diametroArticulacao;
             objetoArticulacao.StrokeThickness = larguraDesenho;
             objetoArticulacao.Stroke = corDesenho;
+            if (preencher)
+                objetoArticulacao.Fill = corDesenho;
+
             return objetoArticulacao;
         }
 

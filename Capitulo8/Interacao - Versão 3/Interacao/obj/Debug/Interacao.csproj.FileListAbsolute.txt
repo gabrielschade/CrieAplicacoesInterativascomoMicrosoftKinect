@@ -58,3 +58,4 @@ C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\C
 C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\EsqueletoUsuario.g.resources
 C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\Interacao.Properties.Resources.resources
 C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\Interacao.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\bin\Debug\AuxiliarKinect.pdb

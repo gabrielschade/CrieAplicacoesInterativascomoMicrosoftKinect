@@ -31,13 +31,15 @@ namespace AuxiliarKinect.Movimentos.Poses
             double resultadoAngulo = Util.CalcularProdutoEscalar(quadrilEsquerdo, ombroEsquerdo, maoEsquerda);
 
             bool anguloCorreto = Util.CompararComMargemErro(margemErroAngulo, resultadoAngulo, ANGULO_ESPERADO);
-            
+
             bool maoEsquerdaDistanciaCorreta = Util.CompararComMargemErro(margemErroPosicao, maoEsquerda.Position.Z, quadrilEsquerdo.Position.Z);
             bool maoEsquerdaAposCotovelo = maoEsquerda.Position.X < cotoveloEsquerdo.Position.X;
+            bool maoEsquerdaAbaixoCotovelo = maoEsquerda.Position.Y < cotoveloEsquerdo.Position.Y;
 
             return anguloCorreto &&
                    maoEsquerdaDistanciaCorreta &&
-                   maoEsquerdaAposCotovelo;
+                   maoEsquerdaAposCotovelo &&
+                   maoEsquerdaAbaixoCotovelo;
         }
     }
 }

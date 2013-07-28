@@ -34,10 +34,12 @@ namespace AuxiliarKinect.Movimentos.Poses
             
             bool maoEsquerdaDistanciaCorreta = Util.CompararComMargemErro(margemErroPosicao, maoEsquerda.Position.Z, quadrilEsquerdo.Position.Z);
             bool maoEsquerdaAposCotovelo = maoEsquerda.Position.X < cotoveloEsquerdo.Position.X;
+            bool maoEsquerdaAbaixoCotovelo = maoEsquerda.Position.Y < cotoveloEsquerdo.Position.Y;
 
             return anguloCorreto &&
                    maoEsquerdaDistanciaCorreta &&
-                   maoEsquerdaAposCotovelo;
+                   maoEsquerdaAposCotovelo &&
+                   maoEsquerdaAbaixoCotovelo;
         }
     }
 }

@@ -178,11 +178,12 @@ namespace Interacao
                     quadro.CopySkeletonDataTo(esqueletos);
                     fluxoInteracao.ProcessSkeleton(esqueletos, kinect.AccelerometerGetCurrentReading(), quadro.Timestamp);
                     EsqueletoUsuarioAuxiliar esqueletoAuxiliar = new EsqueletoUsuarioAuxiliar(kinect);
+
                     if (desenharMaoDireita)
-                        esqueletoAuxiliar.DesenharArticulacao(esqueletoUsuario.Joints[JointType.HandRight], canvasDesenho);
+                        esqueletoAuxiliar.DesenharArticulacao(esqueletoUsuario.Joints[JointType.HandRight], canvasDesenho, 30, true);
 
                     if (desenharMaoEsquerda)
-                        esqueletoAuxiliar.DesenharArticulacao(esqueletoUsuario.Joints[JointType.HandLeft], canvasDesenho);
+                        esqueletoAuxiliar.DesenharArticulacao(esqueletoUsuario.Joints[JointType.HandLeft], canvasDesenho, 30, true);
                 }
                 else
                 {
