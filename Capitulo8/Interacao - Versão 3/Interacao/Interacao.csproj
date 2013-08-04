@@ -79,6 +79,8 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Auxiliar\CanvasInteracao.cs" />
+    <Compile Include="Auxiliar\ConfiguracaoDesenho.cs" />
+    <Compile Include="Auxiliar\Enum.cs" />
     <Compile Include="Auxiliar\EsqueletoUsuarioAuxiliar.cs" />
     <Compile Include="Auxiliar\Extensao.cs" />
     <Compile Include="Auxiliar\KinectToggleButton.cs" />

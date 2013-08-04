@@ -19,17 +19,36 @@ namespace Interacao.Auxiliar
             this.kinect = kinect;
         }
 
-        public Ellipse DesenharArticulacao(Joint articulacao, Canvas canvasParaDesenhar, int diametro = 0, bool preencher = false)
+        public Shape InteracaoDesenhar(Joint articulacao, Canvas canvasParaDesenhar, ConfiguracaoDesenho configuracao)
         {
-            int diametroArticulacao = diametro;
+            int larguraDesenho = 4;
+            Shape objetoArticulacao;
+            if (configuracao.Forma == FormaDesenho.Elipse)
+                objetoArticulacao = new Ellipse();
+            else
+                objetoArticulacao = new Rectangle();
+
+            ConfigurarComponenteVisualArticulacao(objetoArticulacao, configuracao.Tamanho, larguraDesenho, configuracao.Cor);
+            objetoArticulacao.Fill = configuracao.Cor;
+            PosicionarDesenho(articulacao, canvasParaDesenhar, objetoArticulacao);
+            return objetoArticulacao;
+        }
+
+        public Ellipse DesenharArticulacao(Joint articulacao, Canvas canvasParaDesenhar)
+        {
+            int diametroArticulacao = articulacao.JointType == JointType.Head ? 50 : 10;
             int larguraDesenho = 4;
             Brush corDesenho = Brushes.Red;
 
-            if( diametroArticulacao == 0)
-                diametroArticulacao = articulacao.JointType == JointType.Head ? 50 : 10;
+            Ellipse objetoArticulacao = new Ellipse();
+            ConfigurarComponenteVisualArticulacao(objetoArticulacao, diametroArticulacao, larguraDesenho, corDesenho);
+            PosicionarDesenho(articulacao, canvasParaDesenhar, objetoArticulacao);
 
-            Ellipse objetoArticulacao = CriarComponenteVisualArticulacao(diametroArticulacao, larguraDesenho, corDesenho, preencher);
+            return objetoArticulacao;
+        }
 
+        private void PosicionarDesenho(Joint articulacao, Canvas canvasParaDesenhar, Shape objetoArticulacao)
+        {
             ColorImagePoint posicaoArticulacao = ConverterCoordenadasArticulacao(articulacao, canvasParaDesenhar.ActualWidth, canvasParaDesenhar.ActualHeight);
 
             double deslocamentoHorizontal = posicaoArticulacao.X - objetoArticulacao.Width / 2;
@@ -44,8 +63,6 @@ namespace Interacao.Auxiliar
 
                 canvasParaDesenhar.Children.Add(objetoArticulacao);
             }
-
-            return objetoArticulacao;
         }
 
         public void DesenharOsso(Joint articulacaoOrigem, Joint articulacaoDestino, Canvas canvasParaDesenhar)
@@ -72,18 +89,12 @@ namespace Interacao.Auxiliar
                 canvasParaDesenhar.Children.Add(objetoOsso);
         }
 
-        private Ellipse CriarComponenteVisualArticulacao(int diametroArticulacao, int larguraDesenho, Brush corDesenho, bool preencher)
+        private void ConfigurarComponenteVisualArticulacao(Shape forma, int diametroArticulacao, int larguraDesenho, Brush corDesenho)
         {
-            Ellipse objetoArticulacao = new Ellipse();
-
-            objetoArticulacao.Height = diametroArticulacao;
-            objetoArticulacao.Width = diametroArticulacao;
-            objetoArticulacao.StrokeThickness = larguraDesenho;
-            objetoArticulacao.Stroke = corDesenho;
-            if (preencher)
-                objetoArticulacao.Fill = corDesenho;
-
-            return objetoArticulacao;
+            forma.Height = diametroArticulacao;
+            forma.Width = diametroArticulacao;
+            forma.StrokeThickness = larguraDesenho;
+            forma.Stroke = corDesenho;
         }
 
         private Line CriarComponenteVisualOsso(int larguraDesenho, Brush corDesenho, double origemX, double origemY, double destinoX, double destinoY)

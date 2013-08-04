@@ -30,16 +30,30 @@ namespace Interacao
     public partial class MainWindow : Window
     {
         KinectSensor kinect;
-        InteractionStream fluxoInteracao;
         List<IRastreador> rastreadores;
-        bool desenharMaoDireita;
-        bool desenharMaoEsquerda;
+        InteractionStream fluxoInteracao;
+        ConfiguracaoDesenho configuracaoMaoDireita;
+        ConfiguracaoDesenho configuracaoMaoEsquerda;
 
         public MainWindow()
         {
             InitializeComponent();
             InicializarSeletor();
             InicializarRastreadores();
+            InicializarConfiguracoesDesenho();
+        }
+
+        private void InicializarConfiguracoesDesenho()
+        {
+            configuracaoMaoDireita = new ConfiguracaoDesenho();
+            configuracaoMaoDireita.Cor = Brushes.Red;
+            configuracaoMaoDireita.Forma = FormaDesenho.Elipse;
+            configuracaoMaoDireita.Tamanho = 20;
+
+            configuracaoMaoEsquerda = new ConfiguracaoDesenho();
+            configuracaoMaoEsquerda.Cor = Brushes.Blue;
+            configuracaoMaoEsquerda.Forma = FormaDesenho.Retangulo;
+            configuracaoMaoEsquerda.Tamanho = 20;
         }
 
         private void InicializarSeletor()
@@ -80,15 +94,16 @@ namespace Interacao
                 if (usuariosRastreados.Count() > 0)
                 {
                     UserInfo usuarioPrincipal = usuariosRastreados.First();
+
                     if (usuarioPrincipal.HandPointers[0].HandEventType == InteractionHandEventType.Grip)
-                        desenharMaoEsquerda = true;
+                        configuracaoMaoEsquerda.DesenhoAtivo = true;
                     else if (usuarioPrincipal.HandPointers[0].HandEventType == InteractionHandEventType.GripRelease)
-                        desenharMaoEsquerda = false;
+                        configuracaoMaoEsquerda.DesenhoAtivo = false;
 
                     if (usuarioPrincipal.HandPointers[1].HandEventType == InteractionHandEventType.Grip)
-                        desenharMaoDireita = true;
+                        configuracaoMaoDireita.DesenhoAtivo = true;
                     else if (usuarioPrincipal.HandPointers[1].HandEventType == InteractionHandEventType.GripRelease)
-                        desenharMaoDireita = false;
+                        configuracaoMaoDireita.DesenhoAtivo = false;
 
                 }
             }
@@ -179,11 +194,11 @@ namespace Interacao
                     fluxoInteracao.ProcessSkeleton(esqueletos, kinect.AccelerometerGetCurrentReading(), quadro.Timestamp);
                     EsqueletoUsuarioAuxiliar esqueletoAuxiliar = new EsqueletoUsuarioAuxiliar(kinect);
 
-                    if (desenharMaoDireita)
-                        esqueletoAuxiliar.DesenharArticulacao(esqueletoUsuario.Joints[JointType.HandRight], canvasDesenho, 30, true);
+                    if (configuracaoMaoDireita.DesenhoAtivo)
+                        esqueletoAuxiliar.InteracaoDesenhar(esqueletoUsuario.Joints[JointType.HandRight], canvasDesenho, configuracaoMaoDireita);
 
-                    if (desenharMaoEsquerda)
-                        esqueletoAuxiliar.DesenharArticulacao(esqueletoUsuario.Joints[JointType.HandLeft], canvasDesenho, 30, true);
+                    if (configuracaoMaoEsquerda.DesenhoAtivo)
+                        esqueletoAuxiliar.InteracaoDesenhar(esqueletoUsuario.Joints[JointType.HandLeft], canvasDesenho, configuracaoMaoEsquerda);
                 }
                 else
                 {
@@ -222,8 +237,6 @@ namespace Interacao
                     fluxoInteracao.ProcessDepth(imagemProfundidade, quadro.Timestamp);
                 else if (btnEscalaCinza.IsChecked)
                     ReconhecerProfundidade(bytesImagem, distanciaMaxima, imagemProfundidade);
-
-
             }
         }
 
