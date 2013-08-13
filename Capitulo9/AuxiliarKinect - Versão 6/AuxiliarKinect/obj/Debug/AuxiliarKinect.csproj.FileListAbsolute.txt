@@ -1,0 +1,40 @@
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect\AuxiliarKinect\bin\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect\AuxiliarKinect\obj\Debug\AuxiliarKinect.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect\AuxiliarKinect\obj\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect\AuxiliarKinect\obj\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Com Microsoft.Kinect.Toolkit\AuxiliarKinect\obj\Debug\AuxiliarKinect.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Com Microsoft.Kinect.Toolkit\AuxiliarKinect\obj\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Com Microsoft.Kinect.Toolkit\AuxiliarKinect\obj\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Com Microsoft.Kinect.Toolkit\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Com Microsoft.Kinect.Toolkit\AuxiliarKinect\bin\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Versão 2\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Versão 2\AuxiliarKinect\bin\Debug\AuxiliarKinect.pdb
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Versão 2\AuxiliarKinect\obj\Debug\AuxiliarKinect.csprojResolveAssemblyReference.cache
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Versão 2\AuxiliarKinect\obj\Debug\AuxiliarKinect.dll
+D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect - Versão 2\AuxiliarKinect\obj\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\AuxiliarKinect - Versão 3\AuxiliarKinect\obj\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\AuxiliarKinect - Versão 3\AuxiliarKinect\obj\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\AuxiliarKinect - Versão 3\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\AuxiliarKinect - Versão 3\AuxiliarKinect\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\AuxiliarKinect - Versão 3\AuxiliarKinect\obj\Debug\AuxiliarKinect.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\AuxiliarKinect - Versão 4\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\AuxiliarKinect - Versão 4\AuxiliarKinect\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\AuxiliarKinect - Versão 4\AuxiliarKinect\obj\Debug\AuxiliarKinect.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\AuxiliarKinect - Versão 4\AuxiliarKinect\obj\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\AuxiliarKinect - Versão 4\AuxiliarKinect\obj\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\AuxiliarKinect - Versão 4\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\AuxiliarKinect - Versão 4\AuxiliarKinect\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\AuxiliarKinect - Versão 4\AuxiliarKinect\obj\Debug\AuxiliarKinect.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\AuxiliarKinect - Versão 4\AuxiliarKinect\obj\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\AuxiliarKinect - Versão 4\AuxiliarKinect\obj\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\AuxiliarKinect - Versão 5\AuxiliarKinect\obj\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\AuxiliarKinect - Versão 5\AuxiliarKinect\obj\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\AuxiliarKinect - Versão 5\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\AuxiliarKinect - Versão 5\AuxiliarKinect\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\AuxiliarKinect - Versão 5\AuxiliarKinect\obj\Debug\AuxiliarKinect.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo9\AuxiliarKinect - Versão 6\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo9\AuxiliarKinect - Versão 6\AuxiliarKinect\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo9\AuxiliarKinect - Versão 6\AuxiliarKinect\obj\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo9\AuxiliarKinect - Versão 6\AuxiliarKinect\obj\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo9\AuxiliarKinect - Versão 6\AuxiliarKinect\obj\Debug\AuxiliarKinect.csprojResolveAssemblyReference.cache

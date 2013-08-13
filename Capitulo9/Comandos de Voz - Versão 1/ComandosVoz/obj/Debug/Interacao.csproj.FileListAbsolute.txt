@@ -1,0 +1,61 @@
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\bin\Debug\EsqueletoUsuario.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\obj\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\obj\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\bin\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\bin\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\obj\Debug\Interacao.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\obj\Debug\EsqueletoUsuario.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\obj\Debug\Interacao.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\obj\Debug\Interacao.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interactions\Interacao\obj\Debug\EsqueletoUsuario_MarkupCompile.lref
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\bin\Debug\EsqueletoUsuario.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\obj\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\obj\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\bin\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\bin\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\obj\Debug\Interacao.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\obj\Debug\EsqueletoUsuario.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\obj\Debug\Interacao.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\obj\Debug\Interacao.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao\Interacao\obj\Debug\EsqueletoUsuario_MarkupCompile.lref
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\bin\Debug\EsqueletoUsuario.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\obj\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\obj\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\bin\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\bin\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\obj\Debug\Interacao.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\obj\Debug\EsqueletoUsuario_MarkupCompile.lref
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\obj\Debug\EsqueletoUsuario.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\obj\Debug\Interacao.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 2\Interacao\obj\Debug\Interacao.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\bin\Debug\EsqueletoUsuario.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\bin\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\bin\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\Interacao.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\EsqueletoUsuario_MarkupCompile.lref
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\EsqueletoUsuario.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\Interacao.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\obj\Debug\Interacao.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo8\Interacao - Versão 3\Interacao\bin\Debug\AuxiliarKinect.pdb

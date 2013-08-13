@@ -28,7 +28,7 @@
                 </StackPanel>
             </DockPanel>
         </k:KinectRegion>
-        <k:KinectSensorChooserUI Name="sensorChooserUi" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="18,0,425,0" Grid.Column="1" />
+        <k:KinectSensorChooserUI Name="sensorChooserUi" HorizontalAlignment="Center" VerticalAlignment="Top"  />
         <Slider Name="slider" Width="20" Orientation="Vertical" Minimum="-27" Maximum="27" SmallChange="1" Value="0" Height="{Binding ElementName=imagemCamera, Path=ActualHeight}" Thumb.DragCompleted="slider_DragCompleted" Grid.Column="2" Grid.Row="1" Margin="3,0,2,0"/>
     </Grid>
 </Window>
