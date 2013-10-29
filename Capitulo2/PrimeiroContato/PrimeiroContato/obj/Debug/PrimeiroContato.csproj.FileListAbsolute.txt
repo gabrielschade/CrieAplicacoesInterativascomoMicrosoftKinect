@@ -14,3 +14,18 @@ D:\Dados\Documentos\Visual Studio 2012\Projects\PrimeiroContato\PrimeiroContato\
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\PrimeiroContato\PrimeiroContato\bin\Debug\PrimeiroContato.exe.config
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\PrimeiroContato\PrimeiroContato\obj\Debug\PrimeiroContato.exe
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\PrimeiroContato\PrimeiroContato\obj\Debug\PrimeiroContato.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\bin\Debug\PrimeiroContato.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\obj\Debug\PrimeiroContato.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\obj\Debug\PrimeiroContato.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\obj\Debug\PrimeiroContato.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\obj\Debug\PrimeiroContato_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\obj\Debug\PrimeiroContato.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\obj\Debug\PrimeiroContato.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\obj\Debug\PrimeiroContato.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\bin\Debug\PrimeiroContato.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\bin\Debug\PrimeiroContato.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\bin\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo2\PrimeiroContato\PrimeiroContato\bin\Debug\AuxiliarKinect.pdb

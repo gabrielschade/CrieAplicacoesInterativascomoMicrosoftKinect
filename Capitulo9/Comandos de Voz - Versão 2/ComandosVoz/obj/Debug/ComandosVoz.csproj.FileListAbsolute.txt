@@ -25,7 +25,6 @@ C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\C
 C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo9\Comandos de Voz - Versão 2\ComandosVoz\obj\Debug\EsqueletoUsuario_MarkupCompile.lref
 C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo9\Comandos de Voz - Versão 2\ComandosVoz\bin\Debug\EsqueletoUsuario.exe
 C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo9\Comandos de Voz - Versão 2\ComandosVoz\bin\Debug\EsqueletoUsuario.pdb
-C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo9\Comandos de Voz - Versão 2\ComandosVoz\bin\Debug\AuxiliarKinect.pdb
 C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo9\Comandos de Voz - Versão 2\ComandosVoz\obj\Debug\MainWindow.baml
 C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo9\Comandos de Voz - Versão 2\ComandosVoz\obj\Debug\EsqueletoUsuario.g.resources
 C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo9\Comandos de Voz - Versão 2\ComandosVoz\obj\Debug\ComandosVoz.Properties.Resources.resources

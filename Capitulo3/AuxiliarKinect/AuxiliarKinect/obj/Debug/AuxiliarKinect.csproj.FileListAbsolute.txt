@@ -3,3 +3,8 @@ D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect\Auxi
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect\AuxiliarKinect\obj\Debug\AuxiliarKinect.csprojResolveAssemblyReference.cache
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect\AuxiliarKinect\obj\Debug\AuxiliarKinect.dll
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\AuxiliarKinect\AuxiliarKinect\obj\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\AuxiliarKinect\AuxiliarKinect\bin\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\AuxiliarKinect\AuxiliarKinect\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\AuxiliarKinect\AuxiliarKinect\obj\Debug\AuxiliarKinect.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\AuxiliarKinect\AuxiliarKinect\obj\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\AuxiliarKinect\AuxiliarKinect\obj\Debug\AuxiliarKinect.pdb

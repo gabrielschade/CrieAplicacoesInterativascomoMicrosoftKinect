@@ -13,3 +13,18 @@ D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\Acelerometro\Aceler
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\Acelerometro\Acelerometro\obj\Debug\Acelerometro.pdb
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\Acelerometro\Acelerometro\bin\Debug\AuxiliarKinect.dll
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\Acelerometro\Acelerometro\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\bin\Debug\Acelerometro.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\obj\Debug\Acelerometro.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\obj\Debug\Acelerometro.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\bin\Debug\Acelerometro.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\bin\Debug\Acelerometro.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\bin\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\obj\Debug\Acelerometro.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\obj\Debug\Acelerometro_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\obj\Debug\Acelerometro.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\obj\Debug\Acelerometro.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\Acelerometro\Acelerometro\obj\Debug\Acelerometro.csproj.GenerateResource.Cache

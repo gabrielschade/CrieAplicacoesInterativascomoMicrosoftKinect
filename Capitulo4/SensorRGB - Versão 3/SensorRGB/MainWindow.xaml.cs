@@ -15,6 +15,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Microsoft.Kinect.Toolkit.Controls;
+using Microsoft.Kinect.Toolkit;
 
 namespace SensorRGB
 {

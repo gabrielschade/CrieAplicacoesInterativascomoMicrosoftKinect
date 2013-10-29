@@ -13,3 +13,18 @@ D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\EixoMotorizado\Eixo
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\EixoMotorizado\EixoMotorizado\obj\Debug\EixoMotorizado.pdb
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\EixoMotorizado\EixoMotorizado\bin\Debug\AuxiliarKinect.dll
 D:\Dados\Documentos\Visual Studio 2012\Projects\Livro Kinect\EixoMotorizado\EixoMotorizado\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\bin\Debug\EixoMotorizado.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\obj\Debug\EixoMotorizado.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\obj\Debug\EixoMotorizado.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\bin\Debug\EixoMotorizado.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\bin\Debug\EixoMotorizado.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\bin\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\obj\Debug\EixoMotorizado.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\obj\Debug\EixoMotorizado_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\obj\Debug\EixoMotorizado.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\obj\Debug\EixoMotorizado.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo3\EixoMotorizado\EixoMotorizado\obj\Debug\EixoMotorizado.csproj.GenerateResource.Cache

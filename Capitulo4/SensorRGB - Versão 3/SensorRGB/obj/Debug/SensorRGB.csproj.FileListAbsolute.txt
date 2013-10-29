@@ -62,3 +62,16 @@ C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\C
 C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Etapa 3\SensorRGB\obj\Debug\SensorRGB.g.resources
 C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Etapa 3\SensorRGB\obj\Debug\SensorRGB.Properties.Resources.resources
 C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Etapa 3\SensorRGB\obj\Debug\SensorRGB.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Versão 3\SensorRGB\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Versão 3\SensorRGB\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Versão 3\SensorRGB\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Versão 3\SensorRGB\obj\Debug\SensorRGB_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Versão 3\SensorRGB\obj\Debug\SensorRGB.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Versão 3\SensorRGB\obj\Debug\SensorRGB.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Versão 3\SensorRGB\obj\Debug\SensorRGB.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Versão 3\SensorRGB\bin\Debug\SensorRGB.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Versão 3\SensorRGB\bin\Debug\SensorRGB.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Versão 3\SensorRGB\bin\Debug\SensorRGB.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Versão 3\SensorRGB\obj\Debug\SensorRGB.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Versão 3\SensorRGB\obj\Debug\SensorRGB.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo4\SensorRGB - Versão 3\SensorRGB\obj\Debug\SensorRGB.pdb
